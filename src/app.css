@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.nav{
+    background-color:plum;
+    padding: 8px;
+
+}
+.nav ul{
+    display: flex;
+   
+    
+
+   
+}
+
+.nav ul li{
+    margin-left: 10px;
+    list-style: none;
+    color: aliceblue;
+    
+}
